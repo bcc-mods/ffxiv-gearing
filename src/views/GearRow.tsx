@@ -56,6 +56,11 @@ export const GearRow = mobxReact.observer<{
             {gear.hq && <Icon className="gears_hq" name="hq"/>}
           </span>
         )}
+        {gear.version && (
+          <span className="gears_version">
+            {gear.version}
+          </span>
+        )}
         <Dropdown
           label={({ ref, toggle }) => (
             <IconButton ref={ref} className="gears_more" icon="more" onClick={toggle} />
