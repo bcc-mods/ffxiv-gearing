@@ -8478,6 +8478,7 @@ export default [
       DLY: 2240,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39330,
@@ -8496,6 +8497,7 @@ export default [
       DLY: 2560,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39331,
@@ -8514,6 +8516,7 @@ export default [
       DLY: 3360,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39332,
@@ -8532,6 +8535,7 @@ export default [
       DLY: 2800,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39333,
@@ -8550,6 +8554,7 @@ export default [
       DLY: 3040,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39334,
@@ -8568,6 +8573,7 @@ export default [
       DLY: 2560,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39335,
@@ -8586,6 +8592,7 @@ export default [
       DLY: 2960,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39336,
@@ -8604,6 +8611,7 @@ export default [
       DLY: 2640,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39337,
@@ -8621,6 +8629,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39338,
@@ -8638,6 +8647,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39339,
@@ -8655,6 +8665,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39340,
@@ -8672,6 +8683,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39341,
@@ -8689,6 +8701,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39342,
@@ -8707,6 +8720,7 @@ export default [
       DLY: 2640,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39343,
@@ -8724,6 +8738,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39344,
@@ -8742,6 +8757,7 @@ export default [
       DLY: 2800,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39345,
@@ -8760,6 +8776,7 @@ export default [
       DLY: 3120,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39346,
@@ -8777,6 +8794,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39347,
@@ -8795,6 +8813,7 @@ export default [
       DLY: 3200,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39348,
@@ -8811,6 +8830,7 @@ export default [
       VIT: 0,
     },
     source: '曼德维尔武器',
+    version: '6.35',
   },
   {
     id: 39621,
@@ -8944,6 +8964,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.45',
   },
   {
     id: 39755,
@@ -8960,6 +8981,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.45',
   },
   {
     id: 39756,
@@ -8976,6 +8998,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.45',
   },
   {
     id: 39757,
@@ -8992,6 +9015,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.45',
   },
   {
     id: 39758,
@@ -9008,6 +9032,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.45',
   },
   {
     id: 39759,
@@ -9024,6 +9049,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.45',
   },
   {
     id: 39760,
@@ -9040,6 +9066,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.45',
   },
   {
     id: 39761,
@@ -9056,6 +9083,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.45',
   },
   {
     id: 39762,
@@ -9072,6 +9100,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.45',
   },
   {
     id: 39763,
@@ -9088,6 +9117,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.45',
   },
   {
     id: 39764,
@@ -9104,6 +9134,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.45',
   },
   {
     id: 40323,
@@ -9122,6 +9153,7 @@ export default [
       DLY: 2240,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40324,
@@ -9140,6 +9172,7 @@ export default [
       DLY: 2560,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40325,
@@ -9158,6 +9191,7 @@ export default [
       DLY: 3360,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40326,
@@ -9176,6 +9210,7 @@ export default [
       DLY: 2800,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40327,
@@ -9194,6 +9229,7 @@ export default [
       DLY: 3040,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40328,
@@ -9212,6 +9248,7 @@ export default [
       DLY: 2560,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40329,
@@ -9230,6 +9267,7 @@ export default [
       DLY: 2960,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40330,
@@ -9248,6 +9286,7 @@ export default [
       DLY: 2640,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40331,
@@ -9265,6 +9304,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40332,
@@ -9282,6 +9322,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40333,
@@ -9299,6 +9340,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40334,
@@ -9316,6 +9358,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40335,
@@ -9333,6 +9376,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40336,
@@ -9351,6 +9395,7 @@ export default [
       DLY: 2640,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40337,
@@ -9368,6 +9413,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40338,
@@ -9386,6 +9432,7 @@ export default [
       DLY: 2800,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40339,
@@ -9404,6 +9451,7 @@ export default [
       DLY: 3120,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40340,
@@ -9421,6 +9469,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40341,
@@ -9439,6 +9488,7 @@ export default [
       DLY: 3200,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40342,
@@ -9455,6 +9505,7 @@ export default [
       VIT: 0,
     },
     source: '曼德维尔武器',
+    version: '6.45',
   },
   {
     id: 40456,
@@ -9804,6 +9855,7 @@ export default [
       DLY: 2240,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40953,
@@ -9822,6 +9874,7 @@ export default [
       DLY: 2560,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40954,
@@ -9840,6 +9893,7 @@ export default [
       DLY: 3360,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40955,
@@ -9858,6 +9912,7 @@ export default [
       DLY: 2800,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40956,
@@ -9876,6 +9931,7 @@ export default [
       DLY: 3040,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40957,
@@ -9894,6 +9950,7 @@ export default [
       DLY: 2560,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40958,
@@ -9912,6 +9969,7 @@ export default [
       DLY: 2960,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40959,
@@ -9930,6 +9988,7 @@ export default [
       DLY: 2640,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40960,
@@ -9947,6 +10006,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40961,
@@ -9964,6 +10024,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40962,
@@ -9981,6 +10042,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40963,
@@ -9998,6 +10060,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40964,
@@ -10015,6 +10078,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40965,
@@ -10033,6 +10097,7 @@ export default [
       DLY: 2640,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40966,
@@ -10050,6 +10115,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40967,
@@ -10068,6 +10134,7 @@ export default [
       DLY: 2800,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40968,
@@ -10086,6 +10153,7 @@ export default [
       DLY: 3120,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40969,
@@ -10103,6 +10171,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40970,
@@ -10121,6 +10190,7 @@ export default [
       DLY: 3200,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40971,
@@ -10137,6 +10207,7 @@ export default [
       VIT: 0,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40972,
@@ -10155,6 +10226,7 @@ export default [
       DLY: 2240,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40973,
@@ -10173,6 +10245,7 @@ export default [
       DLY: 2560,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40974,
@@ -10191,6 +10264,7 @@ export default [
       DLY: 3360,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40975,
@@ -10209,6 +10283,7 @@ export default [
       DLY: 2800,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40976,
@@ -10227,6 +10302,7 @@ export default [
       DLY: 3040,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40977,
@@ -10245,6 +10321,7 @@ export default [
       DLY: 2560,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40978,
@@ -10263,6 +10340,7 @@ export default [
       DLY: 2960,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40979,
@@ -10281,6 +10359,7 @@ export default [
       DLY: 2640,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40980,
@@ -10298,6 +10377,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40981,
@@ -10315,6 +10395,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40982,
@@ -10332,6 +10413,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40983,
@@ -10349,6 +10431,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40984,
@@ -10366,6 +10449,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40985,
@@ -10384,6 +10468,7 @@ export default [
       DLY: 2640,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40986,
@@ -10401,6 +10486,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40987,
@@ -10419,6 +10505,7 @@ export default [
       DLY: 2800,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40988,
@@ -10437,6 +10524,7 @@ export default [
       DLY: 3120,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40989,
@@ -10454,6 +10542,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40990,
@@ -10472,6 +10561,7 @@ export default [
       DLY: 3200,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40991,
@@ -10488,6 +10578,7 @@ export default [
       VIT: 0,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40992,
@@ -10506,6 +10597,7 @@ export default [
       DLY: 2240,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40993,
@@ -10524,6 +10616,7 @@ export default [
       DLY: 2560,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40994,
@@ -10542,6 +10635,7 @@ export default [
       DLY: 3360,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40995,
@@ -10560,6 +10654,7 @@ export default [
       DLY: 2800,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40996,
@@ -10578,6 +10673,7 @@ export default [
       DLY: 3040,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40997,
@@ -10596,6 +10692,7 @@ export default [
       DLY: 2560,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40998,
@@ -10614,6 +10711,7 @@ export default [
       DLY: 2960,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 40999,
@@ -10632,6 +10730,7 @@ export default [
       DLY: 2640,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41000,
@@ -10649,6 +10748,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41001,
@@ -10666,6 +10766,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41002,
@@ -10683,6 +10784,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41003,
@@ -10700,6 +10802,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41004,
@@ -10717,6 +10820,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41005,
@@ -10735,6 +10839,7 @@ export default [
       DLY: 2640,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41006,
@@ -10752,6 +10857,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41007,
@@ -10770,6 +10876,7 @@ export default [
       DLY: 2800,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41008,
@@ -10788,6 +10895,7 @@ export default [
       DLY: 3120,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41009,
@@ -10805,6 +10913,7 @@ export default [
       MDMG: 9,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41010,
@@ -10823,6 +10932,7 @@ export default [
       DLY: 3200,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41011,
@@ -10839,6 +10949,7 @@ export default [
       VIT: 0,
     },
     source: '曼德维尔武器',
+    version: '6.55',
   },
   {
     id: 41202,
@@ -10855,6 +10966,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41203,
@@ -10871,6 +10983,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41204,
@@ -10887,6 +11000,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41205,
@@ -10903,6 +11017,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41206,
@@ -10919,6 +11034,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41207,
@@ -10935,6 +11051,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41208,
@@ -10951,6 +11068,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41209,
@@ -10967,6 +11085,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41210,
@@ -10983,6 +11102,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41211,
@@ -10999,6 +11119,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41212,
@@ -11015,6 +11136,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41213,
@@ -11031,6 +11153,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41214,
@@ -11047,6 +11170,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41215,
@@ -11063,6 +11187,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41216,
@@ -11079,6 +11204,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41217,
@@ -11095,6 +11221,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41218,
@@ -11111,6 +11238,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41219,
@@ -11127,6 +11255,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41220,
@@ -11143,6 +11272,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41221,
@@ -11159,6 +11289,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41222,
@@ -11175,6 +11306,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41223,
@@ -11191,6 +11323,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41224,
@@ -11207,6 +11340,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41225,
@@ -11223,6 +11357,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41226,
@@ -11239,6 +11374,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41227,
@@ -11255,6 +11391,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41228,
@@ -11271,6 +11408,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41229,
@@ -11287,6 +11425,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41230,
@@ -11303,6 +11442,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41231,
@@ -11319,6 +11459,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41232,
@@ -11335,6 +11476,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41233,
@@ -11351,6 +11493,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41234,
@@ -11367,6 +11510,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41235,
@@ -11383,6 +11527,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41236,
@@ -11399,6 +11544,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41237,
@@ -11415,6 +11561,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41238,
@@ -11431,6 +11578,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41239,
@@ -11447,6 +11595,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41240,
@@ -11463,6 +11612,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41241,
@@ -11479,6 +11629,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41242,
@@ -11495,6 +11646,7 @@ export default [
       CRL: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41243,
@@ -11511,6 +11663,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41244,
@@ -11527,6 +11680,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41245,
@@ -11543,6 +11697,7 @@ export default [
       PCP: 14,
     },
     source: '莫雯卓越工具',
+    version: '6.51',
   },
   {
     id: 41678,
@@ -12101,6 +12256,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.31',
   },
   {
     id: 49089,
@@ -12117,6 +12273,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.31',
   },
   {
     id: 49090,
@@ -12133,6 +12290,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.31',
   },
   {
     id: 49091,
@@ -12149,6 +12307,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.31',
   },
   {
     id: 49092,
@@ -12165,6 +12324,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.31',
   },
   {
     id: 49093,
@@ -12181,6 +12341,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.31',
   },
   {
     id: 49094,
@@ -12197,6 +12358,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.31',
   },
   {
     id: 49095,
@@ -12213,6 +12375,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.31',
   },
   {
     id: 49096,
@@ -12229,6 +12392,7 @@ export default [
       PCP: 14,
     },
     source: '宇宙探索',
+    version: '7.31',
   },
   {
     id: 49097,
@@ -12245,6 +12409,7 @@ export default [
       PCP: 14,
     },
     source: '宇宙探索',
+    version: '7.31',
   },
   {
     id: 49098,
@@ -12261,6 +12426,7 @@ export default [
       PCP: 14,
     },
     source: '宇宙探索',
+    version: '7.31',
   },
   {
     id: 49099,
@@ -12279,6 +12445,7 @@ export default [
       DLY: 2240,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49100,
@@ -12297,6 +12464,7 @@ export default [
       DLY: 2560,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49101,
@@ -12315,6 +12483,7 @@ export default [
       DLY: 3360,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49102,
@@ -12333,6 +12502,7 @@ export default [
       DLY: 2800,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49103,
@@ -12351,6 +12521,7 @@ export default [
       DLY: 3040,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49104,
@@ -12368,6 +12539,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49105,
@@ -12385,6 +12557,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49106,
@@ -12402,6 +12575,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49107,
@@ -12419,6 +12593,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49108,
@@ -12437,6 +12612,7 @@ export default [
       DLY: 2560,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49109,
@@ -12455,6 +12631,7 @@ export default [
       DLY: 2960,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49110,
@@ -12473,6 +12650,7 @@ export default [
       DLY: 2640,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49111,
@@ -12490,6 +12668,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49112,
@@ -12508,6 +12687,7 @@ export default [
       DLY: 2640,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49113,
@@ -12525,6 +12705,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49114,
@@ -12543,6 +12724,7 @@ export default [
       DLY: 2800,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49115,
@@ -12561,6 +12743,7 @@ export default [
       DLY: 3120,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49116,
@@ -12579,6 +12762,7 @@ export default [
       DLY: 3200,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49117,
@@ -12596,6 +12780,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49118,
@@ -12614,6 +12799,7 @@ export default [
       DLY: 2640,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49119,
@@ -12631,6 +12817,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49120,
@@ -12647,6 +12834,7 @@ export default [
       VIT: 0,
     },
     source: '幻境武器',
+    version: '7.31',
   },
   {
     id: 49159,
@@ -12663,6 +12851,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.41',
   },
   {
     id: 49160,
@@ -12679,6 +12868,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.41',
   },
   {
     id: 49161,
@@ -12695,6 +12885,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.41',
   },
   {
     id: 49162,
@@ -12711,6 +12902,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.41',
   },
   {
     id: 49163,
@@ -12727,6 +12919,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.41',
   },
   {
     id: 49164,
@@ -12743,6 +12936,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.41',
   },
   {
     id: 49165,
@@ -12759,6 +12953,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.41',
   },
   {
     id: 49166,
@@ -12775,6 +12970,7 @@ export default [
       CRL: 14,
     },
     source: '宇宙探索',
+    version: '7.41',
   },
   {
     id: 49167,
@@ -12791,6 +12987,7 @@ export default [
       PCP: 14,
     },
     source: '宇宙探索',
+    version: '7.41',
   },
   {
     id: 49168,
@@ -12807,6 +13004,7 @@ export default [
       PCP: 14,
     },
     source: '宇宙探索',
+    version: '7.41',
   },
   {
     id: 49169,
@@ -12823,6 +13021,7 @@ export default [
       PCP: 14,
     },
     source: '宇宙探索',
+    version: '7.41',
   },
   {
     id: 50060,
@@ -12841,6 +13040,7 @@ export default [
       DLY: 2240,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50061,
@@ -12859,6 +13059,7 @@ export default [
       DLY: 2560,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50062,
@@ -12877,6 +13078,7 @@ export default [
       DLY: 3360,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50063,
@@ -12895,6 +13097,7 @@ export default [
       DLY: 2800,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50064,
@@ -12913,6 +13116,7 @@ export default [
       DLY: 3040,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50065,
@@ -12930,6 +13134,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50066,
@@ -12947,6 +13152,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50067,
@@ -12964,6 +13170,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50068,
@@ -12981,6 +13188,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50069,
@@ -12999,6 +13207,7 @@ export default [
       DLY: 2560,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50070,
@@ -13017,6 +13226,7 @@ export default [
       DLY: 2960,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50071,
@@ -13035,6 +13245,7 @@ export default [
       DLY: 2640,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50072,
@@ -13052,6 +13263,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50073,
@@ -13070,6 +13282,7 @@ export default [
       DLY: 2640,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50074,
@@ -13087,6 +13300,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50075,
@@ -13105,6 +13319,7 @@ export default [
       DLY: 2800,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50076,
@@ -13123,6 +13338,7 @@ export default [
       DLY: 3120,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50077,
@@ -13141,6 +13357,7 @@ export default [
       DLY: 3200,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50078,
@@ -13158,6 +13375,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50079,
@@ -13176,6 +13394,7 @@ export default [
       DLY: 2640,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50080,
@@ -13193,6 +13412,7 @@ export default [
       MDMG: 9,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 50081,
@@ -13209,6 +13429,7 @@ export default [
       VIT: 0,
     },
     source: '幻境武器',
+    version: '7.41',
   },
   {
     id: 1602,
@@ -69857,6 +70078,7 @@ export default [
       CRL: 61,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45614,
@@ -69873,6 +70095,7 @@ export default [
       CRL: 61,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45615,
@@ -69889,6 +70112,7 @@ export default [
       CRL: 61,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45616,
@@ -69905,6 +70129,7 @@ export default [
       CRL: 61,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45617,
@@ -69921,6 +70146,7 @@ export default [
       CRL: 61,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45618,
@@ -69937,6 +70163,7 @@ export default [
       CRL: 61,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45619,
@@ -69953,6 +70180,7 @@ export default [
       CRL: 61,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45620,
@@ -69969,6 +70197,7 @@ export default [
       CRL: 61,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45621,
@@ -69986,6 +70215,7 @@ export default [
       PCP: 64,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45622,
@@ -70003,6 +70233,7 @@ export default [
       PCP: 64,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45623,
@@ -70020,6 +70251,7 @@ export default [
       PCP: 64,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 1671,

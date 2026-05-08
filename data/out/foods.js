@@ -5013,6 +5013,7 @@ export default [
       VIT: 10,
     },
     statMain: 'SKS',
+    version: '6.0',
   },
   {
     id: 36037,
@@ -5029,6 +5030,7 @@ export default [
       VIT: 10,
     },
     statMain: 'PIE',
+    version: '6.0',
   },
   {
     id: 36038,
@@ -5045,6 +5047,7 @@ export default [
       VIT: 10,
     },
     statMain: 'TEN',
+    version: '6.0',
   },
   {
     id: 36039,
@@ -5061,6 +5064,7 @@ export default [
       VIT: 10,
     },
     statMain: 'DET',
+    version: '6.0',
   },
   {
     id: 36040,
@@ -5077,6 +5081,7 @@ export default [
       VIT: 10,
     },
     statMain: 'SPS',
+    version: '6.0',
   },
   {
     id: 36041,
@@ -5093,6 +5098,7 @@ export default [
       VIT: 10,
     },
     statMain: 'CRT',
+    version: '6.0',
   },
   {
     id: 36042,
@@ -5109,6 +5115,7 @@ export default [
       VIT: 10,
     },
     statMain: 'TEN',
+    version: '6.0',
   },
   {
     id: 36043,
@@ -5125,6 +5132,7 @@ export default [
       VIT: 10,
     },
     statMain: 'DHT',
+    version: '6.0',
   },
   {
     id: 36044,
@@ -5141,6 +5149,7 @@ export default [
       VIT: 10,
     },
     statMain: 'PIE',
+    version: '6.0',
   },
   {
     id: 36045,
@@ -5157,6 +5166,7 @@ export default [
       VIT: 10,
     },
     statMain: 'SPS',
+    version: '6.0',
   },
   {
     id: 36046,
@@ -5173,6 +5183,7 @@ export default [
       CP: 10,
     },
     statMain: 'CMS',
+    version: '6.0',
   },
   {
     id: 36047,
@@ -5189,6 +5200,7 @@ export default [
       PCP: 3,
     },
     statMain: 'GTH',
+    version: '6.0',
   },
   {
     id: 36048,
@@ -5207,6 +5219,7 @@ export default [
       CRT: 10,
     },
     statMain: 'TEN',
+    version: '6.0',
   },
   {
     id: 36049,
@@ -5225,6 +5238,7 @@ export default [
       TEN: 10,
     },
     statMain: 'SKS',
+    version: '6.0',
   },
   {
     id: 36050,
@@ -5243,6 +5257,7 @@ export default [
       DET: 10,
     },
     statMain: 'SPS',
+    version: '6.0',
   },
   {
     id: 36051,
@@ -5261,6 +5276,7 @@ export default [
       SPS: 10,
     },
     statMain: 'CRT',
+    version: '6.0',
   },
   {
     id: 36052,
@@ -5279,6 +5295,7 @@ export default [
       CRT: 10,
     },
     statMain: 'PIE',
+    version: '6.0',
   },
   {
     id: 36053,
@@ -5295,6 +5312,7 @@ export default [
       CMS: 5,
     },
     statMain: 'CRL',
+    version: '6.0',
   },
   {
     id: 36054,
@@ -5311,6 +5329,7 @@ export default [
       GTH: 3,
     },
     statMain: 'GP',
+    version: '6.0',
   },
   {
     id: 36055,
@@ -5329,6 +5348,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SPS',
+    version: '6.0',
   },
   {
     id: 36056,
@@ -5347,6 +5367,7 @@ export default [
       DET: 10,
     },
     statMain: 'PIE',
+    version: '6.0',
   },
   {
     id: 36057,
@@ -5365,6 +5386,7 @@ export default [
       CRT: 10,
     },
     statMain: 'DET',
+    version: '6.0',
   },
   {
     id: 36058,
@@ -5383,6 +5405,7 @@ export default [
       DET: 10,
     },
     statMain: 'DHT',
+    version: '6.0',
   },
   {
     id: 36059,
@@ -5401,6 +5424,7 @@ export default [
       DET: 10,
     },
     statMain: 'TEN',
+    version: '6.0',
   },
   {
     id: 36060,
@@ -5417,6 +5441,7 @@ export default [
       CRL: 5,
     },
     statMain: 'CP',
+    version: '6.0',
   },
   {
     id: 36061,
@@ -5433,6 +5458,7 @@ export default [
       GP: 10,
     },
     statMain: 'PCP',
+    version: '6.0',
   },
   {
     id: 36062,
@@ -5451,6 +5477,7 @@ export default [
       DET: 10,
     },
     statMain: 'TEN',
+    version: '6.0',
   },
   {
     id: 36063,
@@ -5469,6 +5496,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SKS',
+    version: '6.0',
   },
   {
     id: 36064,
@@ -5487,6 +5515,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SPS',
+    version: '6.0',
   },
   {
     id: 36065,
@@ -5505,6 +5534,7 @@ export default [
       DET: 10,
     },
     statMain: 'PIE',
+    version: '6.0',
   },
   {
     id: 36066,
@@ -5523,6 +5553,7 @@ export default [
       DET: 10,
     },
     statMain: 'DHT',
+    version: '6.0',
   },
   {
     id: 36067,
@@ -5541,6 +5572,7 @@ export default [
       DET: 10,
     },
     statMain: 'DHT',
+    version: '6.05',
   },
   {
     id: 36068,
@@ -5559,6 +5591,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SKS',
+    version: '6.05',
   },
   {
     id: 36069,
@@ -5577,6 +5610,7 @@ export default [
       SKS: 10,
     },
     statMain: 'CRT',
+    version: '6.05',
   },
   {
     id: 36070,
@@ -5595,6 +5629,7 @@ export default [
       CRT: 10,
     },
     statMain: 'DET',
+    version: '6.05',
   },
   {
     id: 36071,
@@ -5613,6 +5648,7 @@ export default [
       DET: 10,
     },
     statMain: 'PIE',
+    version: '6.05',
   },
   {
     id: 36072,
@@ -5631,6 +5667,7 @@ export default [
       PIE: 10,
     },
     statMain: 'SPS',
+    version: '6.05',
   },
   {
     id: 36073,
@@ -5649,6 +5686,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SPS',
+    version: '6.05',
   },
   {
     id: 36074,
@@ -5667,6 +5705,7 @@ export default [
       SPS: 10,
     },
     statMain: 'CRT',
+    version: '6.05',
   },
   {
     id: 36075,
@@ -5685,6 +5724,7 @@ export default [
       DET: 10,
     },
     statMain: 'TEN',
+    version: '6.05',
   },
   {
     id: 36076,
@@ -5703,6 +5743,7 @@ export default [
       TEN: 10,
     },
     statMain: 'DET',
+    version: '6.05',
   },
   {
     id: 36114,
@@ -5717,6 +5758,7 @@ export default [
       CMS: 3,
     },
     statMain: 'CMS',
+    version: '6.0',
   },
   {
     id: 36115,
@@ -5731,6 +5773,7 @@ export default [
       CRL: 3,
     },
     statMain: 'CRL',
+    version: '6.0',
   },
   {
     id: 36116,
@@ -5745,6 +5788,7 @@ export default [
       CP: 6,
     },
     statMain: 'CP',
+    version: '6.0',
   },
   {
     id: 37282,
@@ -5795,6 +5839,7 @@ export default [
       DET: 10,
     },
     statMain: 'DHT',
+    version: '6.2',
   },
   {
     id: 38262,
@@ -5813,6 +5858,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SKS',
+    version: '6.2',
   },
   {
     id: 38263,
@@ -5831,6 +5877,7 @@ export default [
       SKS: 10,
     },
     statMain: 'CRT',
+    version: '6.2',
   },
   {
     id: 38264,
@@ -5849,6 +5896,7 @@ export default [
       CRT: 10,
     },
     statMain: 'DET',
+    version: '6.2',
   },
   {
     id: 38265,
@@ -5867,6 +5915,7 @@ export default [
       DET: 10,
     },
     statMain: 'PIE',
+    version: '6.2',
   },
   {
     id: 38266,
@@ -5885,6 +5934,7 @@ export default [
       PIE: 10,
     },
     statMain: 'SPS',
+    version: '6.2',
   },
   {
     id: 38267,
@@ -5903,6 +5953,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SPS',
+    version: '6.2',
   },
   {
     id: 38268,
@@ -5921,6 +5972,7 @@ export default [
       SPS: 10,
     },
     statMain: 'CRT',
+    version: '6.2',
   },
   {
     id: 38269,
@@ -5939,6 +5991,7 @@ export default [
       DET: 10,
     },
     statMain: 'TEN',
+    version: '6.2',
   },
   {
     id: 38270,
@@ -5957,6 +6010,7 @@ export default [
       TEN: 10,
     },
     statMain: 'DET',
+    version: '6.2',
   },
   {
     id: 38929,
@@ -6008,6 +6062,7 @@ export default [
       DET: 10,
     },
     statMain: 'DHT',
+    version: '6.4',
   },
   {
     id: 39870,
@@ -6026,6 +6081,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SKS',
+    version: '6.4',
   },
   {
     id: 39871,
@@ -6044,6 +6100,7 @@ export default [
       SKS: 10,
     },
     statMain: 'CRT',
+    version: '6.4',
   },
   {
     id: 39872,
@@ -6062,6 +6119,7 @@ export default [
       CRT: 10,
     },
     statMain: 'DET',
+    version: '6.4',
   },
   {
     id: 39873,
@@ -6080,6 +6138,7 @@ export default [
       DET: 10,
     },
     statMain: 'PIE',
+    version: '6.4',
   },
   {
     id: 39874,
@@ -6098,6 +6157,7 @@ export default [
       PIE: 10,
     },
     statMain: 'SPS',
+    version: '6.4',
   },
   {
     id: 39875,
@@ -6116,6 +6176,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SPS',
+    version: '6.4',
   },
   {
     id: 39876,
@@ -6134,6 +6195,7 @@ export default [
       SPS: 10,
     },
     statMain: 'CRT',
+    version: '6.4',
   },
   {
     id: 39877,
@@ -6152,6 +6214,7 @@ export default [
       DET: 10,
     },
     statMain: 'TEN',
+    version: '6.4',
   },
   {
     id: 39878,
@@ -6170,6 +6233,7 @@ export default [
       TEN: 10,
     },
     statMain: 'DET',
+    version: '6.4',
   },
   {
     id: 44073,
@@ -6186,6 +6250,7 @@ export default [
       VIT: 10,
     },
     statMain: 'SKS',
+    version: '7.0',
   },
   {
     id: 44074,
@@ -6202,6 +6267,7 @@ export default [
       VIT: 10,
     },
     statMain: 'DET',
+    version: '7.0',
   },
   {
     id: 44076,
@@ -6220,6 +6286,7 @@ export default [
       DET: 10,
     },
     statMain: 'TEN',
+    version: '7.0',
   },
   {
     id: 44077,
@@ -6237,6 +6304,7 @@ export default [
     },
     statMain: 'CRL',
     best: true,
+    version: '7.0',
   },
   {
     id: 44078,
@@ -6254,6 +6322,7 @@ export default [
     },
     statMain: 'GP',
     best: true,
+    version: '7.0',
   },
   {
     id: 44079,
@@ -6270,6 +6339,7 @@ export default [
       VIT: 10,
     },
     statMain: 'TEN',
+    version: '7.0',
   },
   {
     id: 44081,
@@ -6286,6 +6356,7 @@ export default [
       VIT: 10,
     },
     statMain: 'PIE',
+    version: '7.0',
   },
   {
     id: 44082,
@@ -6302,6 +6373,7 @@ export default [
       VIT: 10,
     },
     statMain: 'CRT',
+    version: '7.0',
   },
   {
     id: 44083,
@@ -6318,6 +6390,7 @@ export default [
       VIT: 10,
     },
     statMain: 'TEN',
+    version: '7.0',
   },
   {
     id: 44084,
@@ -6334,6 +6407,7 @@ export default [
       VIT: 10,
     },
     statMain: 'DHT',
+    version: '7.0',
   },
   {
     id: 44085,
@@ -6350,6 +6424,7 @@ export default [
       VIT: 10,
     },
     statMain: 'SPS',
+    version: '7.0',
   },
   {
     id: 44086,
@@ -6369,6 +6444,7 @@ export default [
     },
     statMain: 'SKS',
     best: true,
+    version: '7.0',
   },
   {
     id: 44087,
@@ -6387,6 +6463,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SPS',
+    version: '7.0',
   },
   {
     id: 44088,
@@ -6404,6 +6481,7 @@ export default [
     },
     statMain: 'CMS',
     best: true,
+    version: '7.0',
   },
   {
     id: 44089,
@@ -6423,6 +6501,7 @@ export default [
     },
     statMain: 'PIE',
     best: true,
+    version: '7.0',
   },
   {
     id: 44090,
@@ -6441,6 +6520,7 @@ export default [
       DET: 10,
     },
     statMain: 'PIE',
+    version: '7.0',
   },
   {
     id: 44091,
@@ -6457,6 +6537,7 @@ export default [
       CRL: 5,
     },
     statMain: 'CP',
+    version: '7.0',
   },
   {
     id: 44092,
@@ -6475,6 +6556,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SPS',
+    version: '7.0',
   },
   {
     id: 44093,
@@ -6491,6 +6573,7 @@ export default [
       VIT: 10,
     },
     statMain: 'PIE',
+    version: '7.0',
   },
   {
     id: 44094,
@@ -6507,6 +6590,7 @@ export default [
       VIT: 10,
     },
     statMain: 'SPS',
+    version: '7.0',
   },
   {
     id: 44095,
@@ -6525,6 +6609,7 @@ export default [
       DET: 10,
     },
     statMain: 'DHT',
+    version: '7.0',
   },
   {
     id: 44096,
@@ -6543,6 +6628,7 @@ export default [
       DET: 10,
     },
     statMain: 'DHT',
+    version: '7.0',
   },
   {
     id: 44097,
@@ -6561,6 +6647,7 @@ export default [
       DET: 10,
     },
     statMain: 'PIE',
+    version: '7.0',
   },
   {
     id: 44098,
@@ -6579,6 +6666,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SKS',
+    version: '7.0',
   },
   {
     id: 44099,
@@ -6595,6 +6683,7 @@ export default [
       PCP: 3,
     },
     statMain: 'GTH',
+    version: '7.0',
   },
   {
     id: 44100,
@@ -6613,6 +6702,7 @@ export default [
       CRT: 10,
     },
     statMain: 'DET',
+    version: '7.0',
   },
   {
     id: 44101,
@@ -6632,6 +6722,7 @@ export default [
     },
     statMain: 'SPS',
     best: true,
+    version: '7.0',
   },
   {
     id: 44102,
@@ -6650,6 +6741,7 @@ export default [
       SPS: 10,
     },
     statMain: 'CRT',
+    version: '7.0',
   },
   {
     id: 44103,
@@ -6667,6 +6759,7 @@ export default [
     },
     statMain: 'PCP',
     best: true,
+    version: '7.0',
   },
   {
     id: 44104,
@@ -6685,6 +6778,7 @@ export default [
       DET: 10,
     },
     statMain: 'TEN',
+    version: '7.0',
   },
   {
     id: 44105,
@@ -6704,6 +6798,7 @@ export default [
     },
     statMain: 'TEN',
     best: true,
+    version: '7.0',
   },
   {
     id: 44167,
@@ -6719,6 +6814,7 @@ export default [
     },
     statMain: 'CMS',
     best: true,
+    version: '7.0',
   },
   {
     id: 44168,
@@ -6734,6 +6830,7 @@ export default [
     },
     statMain: 'CRL',
     best: true,
+    version: '7.0',
   },
   {
     id: 44169,
@@ -6749,6 +6846,7 @@ export default [
     },
     statMain: 'CP',
     best: true,
+    version: '7.0',
   },
   {
     id: 44175,
@@ -6767,6 +6865,7 @@ export default [
       DET: 10,
     },
     statMain: 'DHT',
+    version: '7.05',
   },
   {
     id: 44176,
@@ -6785,6 +6884,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SKS',
+    version: '7.05',
   },
   {
     id: 44177,
@@ -6803,6 +6903,7 @@ export default [
       SKS: 10,
     },
     statMain: 'CRT',
+    version: '7.05',
   },
   {
     id: 44178,
@@ -6821,6 +6922,7 @@ export default [
       CRT: 10,
     },
     statMain: 'DET',
+    version: '7.05',
   },
   {
     id: 44179,
@@ -6839,6 +6941,7 @@ export default [
       DET: 10,
     },
     statMain: 'PIE',
+    version: '7.05',
   },
   {
     id: 44180,
@@ -6857,6 +6960,7 @@ export default [
       PIE: 10,
     },
     statMain: 'SPS',
+    version: '7.05',
   },
   {
     id: 44181,
@@ -6875,6 +6979,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SPS',
+    version: '7.05',
   },
   {
     id: 44182,
@@ -6893,6 +6998,7 @@ export default [
       SPS: 10,
     },
     statMain: 'CRT',
+    version: '7.05',
   },
   {
     id: 44183,
@@ -6911,6 +7017,7 @@ export default [
       DET: 10,
     },
     statMain: 'TEN',
+    version: '7.05',
   },
   {
     id: 44184,
@@ -6929,6 +7036,7 @@ export default [
       TEN: 10,
     },
     statMain: 'DET',
+    version: '7.05',
   },
   {
     id: 44842,
@@ -6981,6 +7089,7 @@ export default [
       DET: 10,
     },
     statMain: 'DHT',
+    version: '7.2',
   },
   {
     id: 46001,
@@ -6999,6 +7108,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SKS',
+    version: '7.2',
   },
   {
     id: 46002,
@@ -7017,6 +7127,7 @@ export default [
       SKS: 10,
     },
     statMain: 'CRT',
+    version: '7.2',
   },
   {
     id: 46003,
@@ -7035,6 +7146,7 @@ export default [
       CRT: 10,
     },
     statMain: 'DET',
+    version: '7.2',
   },
   {
     id: 46004,
@@ -7053,6 +7165,7 @@ export default [
       DET: 10,
     },
     statMain: 'PIE',
+    version: '7.2',
   },
   {
     id: 46005,
@@ -7071,6 +7184,7 @@ export default [
       PIE: 10,
     },
     statMain: 'SPS',
+    version: '7.2',
   },
   {
     id: 46006,
@@ -7089,6 +7203,7 @@ export default [
       DHT: 10,
     },
     statMain: 'SPS',
+    version: '7.2',
   },
   {
     id: 46007,
@@ -7107,6 +7222,7 @@ export default [
       SPS: 10,
     },
     statMain: 'CRT',
+    version: '7.2',
   },
   {
     id: 46008,
@@ -7125,6 +7241,7 @@ export default [
       DET: 10,
     },
     statMain: 'TEN',
+    version: '7.2',
   },
   {
     id: 46009,
@@ -7143,6 +7260,7 @@ export default [
       TEN: 10,
     },
     statMain: 'DET',
+    version: '7.2',
   },
   {
     id: 46253,
@@ -7196,6 +7314,7 @@ export default [
     },
     statMain: 'CRT',
     best: true,
+    version: '7.4',
   },
   {
     id: 49240,
@@ -7215,6 +7334,7 @@ export default [
     },
     statMain: 'DET',
     best: true,
+    version: '7.4',
   },
   {
     id: 49241,
@@ -7234,6 +7354,7 @@ export default [
     },
     statMain: 'PIE',
     best: true,
+    version: '7.4',
   },
   {
     id: 49242,
@@ -7253,6 +7374,7 @@ export default [
     },
     statMain: 'SPS',
     best: true,
+    version: '7.4',
   },
   {
     id: 49243,
@@ -7272,6 +7394,7 @@ export default [
     },
     statMain: 'SPS',
     best: true,
+    version: '7.4',
   },
   {
     id: 49244,
@@ -7291,6 +7414,7 @@ export default [
     },
     statMain: 'CRT',
     best: true,
+    version: '7.4',
   },
   {
     id: 49245,
@@ -7310,6 +7434,7 @@ export default [
     },
     statMain: 'DHT',
     best: true,
+    version: '7.4',
   },
   {
     id: 49246,
@@ -7329,6 +7454,7 @@ export default [
     },
     statMain: 'SKS',
     best: true,
+    version: '7.4',
   },
   {
     id: 49247,
@@ -7348,6 +7474,7 @@ export default [
     },
     statMain: 'TEN',
     best: true,
+    version: '7.4',
   },
   {
     id: 49248,
@@ -7367,5 +7494,6 @@ export default [
     },
     statMain: 'DET',
     best: true,
+    version: '7.4',
   },
 ];

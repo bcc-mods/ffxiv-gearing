@@ -20092,6 +20092,7 @@ export default [
       DLY: 2640,
     },
     source: '深层迷宫/天之御柱',
+    version: '7.0',
   },
   {
     id: 43656,
@@ -20111,6 +20112,7 @@ export default [
       MDMG: 89,
     },
     source: '深层迷宫/天之御柱',
+    version: '7.0',
   },
   {
     id: 21399,
@@ -25647,6 +25649,7 @@ export default [
       DLY: 2800,
     },
     source: '零式/西格玛幻境',
+    version: '7.5',
   },
   {
     id: 52607,
@@ -25667,6 +25670,7 @@ export default [
       DLY: 3120,
     },
     source: '零式/西格玛幻境',
+    version: '7.5',
   },
   {
     id: 52608,
@@ -25687,6 +25691,7 @@ export default [
       DLY: 3200,
     },
     source: '零式/西格玛幻境',
+    version: '7.5',
   },
   {
     id: 52609,
@@ -25706,6 +25711,7 @@ export default [
       MDMG: 90,
     },
     source: '零式/西格玛幻境',
+    version: '7.5',
   },
   {
     id: 52610,
@@ -25726,6 +25732,7 @@ export default [
       DLY: 2640,
     },
     source: '零式/西格玛幻境',
+    version: '7.5',
   },
   {
     id: 52611,
@@ -25745,6 +25752,7 @@ export default [
       MDMG: 90,
     },
     source: '零式/西格玛幻境',
+    version: '7.5',
   },
   {
     id: 23644,

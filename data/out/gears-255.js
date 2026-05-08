@@ -3222,6 +3222,7 @@ export default [
       DLY: 2640,
     },
     source: '深层迷宫/死者宫殿',
+    version: '7.0',
   },
   {
     id: 43655,
@@ -3241,6 +3242,7 @@ export default [
       MDMG: 78,
     },
     source: '深层迷宫/死者宫殿',
+    version: '7.0',
   },
   {
     id: 15237,

@@ -26,6 +26,7 @@ export const Food = mst.types
     get color(): GearColor { return 'white'; },
     get stats(): G.Stats { return self.data.stats; },
     get statRates(): G.Stats { return self.data.statRates; },
+    get version() { return self.data.version; },
     get requiredStats(): G.Stats {
       const stats: G.Stats = {};
       for (const stat of Object.keys(this.stats) as G.Stat[]) {

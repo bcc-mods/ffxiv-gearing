@@ -1550,6 +1550,7 @@ export default [
     },
     hq: true,
     source: '生产制作',
+    version: '7.0',
   },
   {
     id: 43646,
@@ -1571,6 +1572,7 @@ export default [
     },
     hq: true,
     source: '生产制作',
+    version: '7.0',
   },
   {
     id: 35452,
@@ -2456,6 +2458,7 @@ export default [
       DLY: 2640,
     },
     source: '零式/再生之章',
+    version: '7.0',
   },
   {
     id: 44242,
@@ -2475,6 +2478,7 @@ export default [
       MDMG: 106,
     },
     source: '零式/再生之章',
+    version: '7.0',
   },
   {
     id: 34455,
@@ -3876,6 +3880,7 @@ export default [
       DLY: 2640,
     },
     source: '迷宫挑战/万相森国',
+    version: '7.0',
   },
   {
     id: 43647,
@@ -3895,6 +3900,7 @@ export default [
       MDMG: 106,
     },
     source: '迷宫挑战/万相森国',
+    version: '7.0',
   },
   {
     id: 34530,
@@ -5447,6 +5453,7 @@ export default [
     },
     hq: true,
     source: '生产制作',
+    version: '7.0',
   },
   {
     id: 43648,
@@ -5468,6 +5475,7 @@ export default [
     },
     hq: true,
     source: '生产制作',
+    version: '7.0',
   },
   {
     id: 35362,
@@ -7437,6 +7445,7 @@ export default [
       DLY: 2640,
     },
     source: '迷宫挑战/极北造物院',
+    version: '7.0',
   },
   {
     id: 43649,
@@ -7456,6 +7465,7 @@ export default [
       MDMG: 107,
     },
     source: '迷宫挑战/极北造物院',
+    version: '7.0',
   },
   {
     id: 34680,
@@ -9008,6 +9018,7 @@ export default [
     },
     hq: true,
     source: '生产制作',
+    version: '7.0',
   },
   {
     id: 43650,
@@ -9029,6 +9040,7 @@ export default [
     },
     hq: true,
     source: '生产制作',
+    version: '7.0',
   },
   {
     id: 34810,
@@ -12709,6 +12721,7 @@ export default [
       DLY: 2640,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43189,
@@ -12727,6 +12740,7 @@ export default [
       CRT: 141,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43190,
@@ -12745,6 +12759,7 @@ export default [
       DET: 224,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43191,
@@ -12763,6 +12778,7 @@ export default [
       SKS: 99,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43192,
@@ -12781,6 +12797,7 @@ export default [
       DET: 157,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43193,
@@ -12799,6 +12816,7 @@ export default [
       CRT: 99,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43194,
@@ -12818,6 +12836,7 @@ export default [
       MDMG: 111,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43195,
@@ -12836,6 +12855,7 @@ export default [
       CRT: 99,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43196,
@@ -12854,6 +12874,7 @@ export default [
       DET: 157,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43197,
@@ -12872,6 +12893,7 @@ export default [
       DET: 99,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43198,
@@ -12890,6 +12912,7 @@ export default [
       DET: 224,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43199,
@@ -12908,6 +12931,7 @@ export default [
       SPS: 99,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 45657,
@@ -12924,6 +12948,7 @@ export default [
       CRL: 544,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45658,
@@ -12940,6 +12965,7 @@ export default [
       CRL: 544,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45659,
@@ -12956,6 +12982,7 @@ export default [
       CRL: 544,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45660,
@@ -12972,6 +12999,7 @@ export default [
       CRL: 544,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45661,
@@ -12988,6 +13016,7 @@ export default [
       CRL: 544,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45662,
@@ -13004,6 +13033,7 @@ export default [
       CRL: 544,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45663,
@@ -13020,6 +13050,7 @@ export default [
       CRL: 544,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45664,
@@ -13036,6 +13067,7 @@ export default [
       CRL: 544,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45665,
@@ -13053,6 +13085,7 @@ export default [
       PCP: 581,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45666,
@@ -13070,6 +13103,7 @@ export default [
       PCP: 581,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45667,
@@ -13087,6 +13121,7 @@ export default [
       PCP: 581,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 48173,
@@ -13108,6 +13143,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48174,
@@ -13129,6 +13165,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48175,
@@ -13150,6 +13187,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48176,
@@ -13171,6 +13209,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48177,
@@ -13192,6 +13231,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48178,
@@ -13213,6 +13253,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48179,
@@ -13234,6 +13275,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48180,
@@ -13255,6 +13297,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48181,
@@ -13275,6 +13318,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48182,
@@ -13295,6 +13339,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48183,
@@ -13315,6 +13360,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48184,
@@ -13335,6 +13381,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48185,
@@ -13355,6 +13402,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48186,
@@ -13376,6 +13424,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48187,
@@ -13396,6 +13445,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48188,
@@ -13417,6 +13467,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48189,
@@ -13438,6 +13489,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48190,
@@ -13458,6 +13510,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48191,
@@ -13479,6 +13532,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 48192,
@@ -13498,6 +13552,7 @@ export default [
     },
     hq: true,
     source: '生产制作/海德林武器',
+    version: '7.2',
   },
   {
     id: 34850,
@@ -15980,6 +16035,7 @@ export default [
       CRL: 556,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38716,
@@ -15996,6 +16052,7 @@ export default [
       CRL: 556,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38717,
@@ -16012,6 +16069,7 @@ export default [
       CRL: 556,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38718,
@@ -16028,6 +16086,7 @@ export default [
       CRL: 556,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38719,
@@ -16044,6 +16103,7 @@ export default [
       CRL: 556,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38720,
@@ -16060,6 +16120,7 @@ export default [
       CRL: 556,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38721,
@@ -16076,6 +16137,7 @@ export default [
       CRL: 556,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38722,
@@ -16092,6 +16154,7 @@ export default [
       CRL: 556,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38723,
@@ -16109,6 +16172,7 @@ export default [
       PCP: 599,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38724,
@@ -16126,6 +16190,7 @@ export default [
       PCP: 599,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38725,
@@ -16143,6 +16208,7 @@ export default [
       PCP: 599,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 37166,
@@ -24663,6 +24729,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37704,
@@ -24679,6 +24746,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37705,
@@ -24695,6 +24763,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37706,
@@ -24711,6 +24780,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37707,
@@ -24727,6 +24797,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37708,
@@ -24743,6 +24814,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37709,
@@ -24759,6 +24831,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37710,
@@ -24775,6 +24848,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37711,
@@ -24792,6 +24866,7 @@ export default [
       PCP: 640,
     },
     source: '大地紫票',
+    version: '6.2',
   },
   {
     id: 37712,
@@ -24809,6 +24884,7 @@ export default [
       PCP: 640,
     },
     source: '大地紫票',
+    version: '6.2',
   },
   {
     id: 37713,
@@ -24826,6 +24902,7 @@ export default [
       PCP: 640,
     },
     source: '大地紫票',
+    version: '6.2',
   },
   {
     id: 37714,
@@ -24842,6 +24919,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37715,
@@ -24858,6 +24936,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37716,
@@ -24874,6 +24953,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37717,
@@ -24890,6 +24970,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37718,
@@ -24906,6 +24987,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37719,
@@ -24922,6 +25004,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37720,
@@ -24938,6 +25021,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37721,
@@ -24954,6 +25038,7 @@ export default [
       CRL: 593,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37722,
@@ -24970,6 +25055,7 @@ export default [
       PCP: 1120,
     },
     source: '大地紫票',
+    version: '6.2',
   },
   {
     id: 37723,
@@ -24986,6 +25072,7 @@ export default [
       PCP: 1120,
     },
     source: '大地紫票',
+    version: '6.2',
   },
   {
     id: 37724,
@@ -25002,6 +25089,7 @@ export default [
       CRL: 356,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37725,
@@ -25019,6 +25107,7 @@ export default [
       CRL: 356,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37726,
@@ -25035,6 +25124,7 @@ export default [
       CRL: 356,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37727,
@@ -25051,6 +25141,7 @@ export default [
       CRL: 356,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37728,
@@ -25067,6 +25158,7 @@ export default [
       CRL: 356,
     },
     source: '巧手紫票',
+    version: '6.2',
   },
   {
     id: 37729,
@@ -25083,6 +25175,7 @@ export default [
       PCP: 640,
     },
     source: '大地紫票',
+    version: '6.2',
   },
   {
     id: 37730,
@@ -25101,6 +25194,7 @@ export default [
       PCP: 320,
     },
     source: '大地紫票',
+    version: '6.2',
   },
   {
     id: 37731,
@@ -25118,6 +25212,7 @@ export default [
       GTH: 480,
     },
     source: '大地紫票',
+    version: '6.2',
   },
   {
     id: 37732,
@@ -25136,6 +25231,7 @@ export default [
       PCP: 160,
     },
     source: '大地紫票',
+    version: '6.2',
   },
   {
     id: 37733,
@@ -25153,6 +25249,7 @@ export default [
       PCP: 352,
     },
     source: '大地紫票',
+    version: '6.2',
   },
   {
     id: 38726,
@@ -25169,6 +25266,7 @@ export default [
       CRL: 593,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38727,
@@ -25185,6 +25283,7 @@ export default [
       CRL: 593,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38728,
@@ -25201,6 +25300,7 @@ export default [
       CRL: 593,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38729,
@@ -25217,6 +25317,7 @@ export default [
       CRL: 593,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38730,
@@ -25233,6 +25334,7 @@ export default [
       CRL: 593,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38731,
@@ -25249,6 +25351,7 @@ export default [
       CRL: 593,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38732,
@@ -25265,6 +25368,7 @@ export default [
       CRL: 593,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38733,
@@ -25281,6 +25385,7 @@ export default [
       CRL: 593,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38734,
@@ -25298,6 +25403,7 @@ export default [
       PCP: 640,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38735,
@@ -25315,6 +25421,7 @@ export default [
       PCP: 640,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 38736,
@@ -25332,6 +25439,7 @@ export default [
       PCP: 640,
     },
     source: '莫雯卓越工具',
+    version: '6.35',
   },
   {
     id: 36923,
@@ -25741,6 +25849,7 @@ export default [
       SKS: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38157,
@@ -25759,6 +25868,7 @@ export default [
       DET: 253,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38158,
@@ -25777,6 +25887,7 @@ export default [
       SKS: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38159,
@@ -25795,6 +25906,7 @@ export default [
       DET: 177,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38160,
@@ -25813,6 +25925,7 @@ export default [
       CRT: 112,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38161,
@@ -25831,6 +25944,7 @@ export default [
       DET: 112,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38162,
@@ -25849,6 +25963,7 @@ export default [
       CRT: 253,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38163,
@@ -25867,6 +25982,7 @@ export default [
       SKS: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38164,
@@ -25885,6 +26001,7 @@ export default [
       CRT: 177,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38165,
@@ -25903,6 +26020,7 @@ export default [
       SKS: 112,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38166,
@@ -25921,6 +26039,7 @@ export default [
       SKS: 112,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38167,
@@ -25939,6 +26058,7 @@ export default [
       CRT: 177,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38168,
@@ -25957,6 +26077,7 @@ export default [
       SKS: 112,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38169,
@@ -25975,6 +26096,7 @@ export default [
       DET: 177,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38170,
@@ -25993,6 +26115,7 @@ export default [
       CRT: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38171,
@@ -26011,6 +26134,7 @@ export default [
       SKS: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38172,
@@ -26029,6 +26153,7 @@ export default [
       DET: 177,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38173,
@@ -26047,6 +26172,7 @@ export default [
       DET: 112,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38174,
@@ -26065,6 +26191,7 @@ export default [
       SKS: 253,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38175,
@@ -26083,6 +26210,7 @@ export default [
       CRT: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38176,
@@ -26101,6 +26229,7 @@ export default [
       DET: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38177,
@@ -26119,6 +26248,7 @@ export default [
       DET: 177,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38178,
@@ -26137,6 +26267,7 @@ export default [
       SKS: 112,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38179,
@@ -26155,6 +26286,7 @@ export default [
       CRT: 177,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38180,
@@ -26173,6 +26305,7 @@ export default [
       SKS: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38181,
@@ -26191,6 +26324,7 @@ export default [
       CRT: 112,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38182,
@@ -26209,6 +26343,7 @@ export default [
       DET: 177,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38183,
@@ -26227,6 +26362,7 @@ export default [
       SPS: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38184,
@@ -26245,6 +26381,7 @@ export default [
       CRT: 253,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38185,
@@ -26263,6 +26400,7 @@ export default [
       DET: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38186,
@@ -26281,6 +26419,7 @@ export default [
       CRT: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38187,
@@ -26299,6 +26438,7 @@ export default [
       DET: 253,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38188,
@@ -26317,6 +26457,7 @@ export default [
       DET: 112,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38189,
@@ -26335,6 +26476,7 @@ export default [
       SPS: 177,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38190,
@@ -26353,6 +26495,7 @@ export default [
       SPS: 160,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38191,
@@ -26371,6 +26514,7 @@ export default [
       DET: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38192,
@@ -26389,6 +26533,7 @@ export default [
       DET: 88,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38193,
@@ -26407,6 +26552,7 @@ export default [
       DET: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38194,
@@ -26425,6 +26571,7 @@ export default [
       SPS: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38195,
@@ -26443,6 +26590,7 @@ export default [
       SPS: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38196,
@@ -26461,6 +26609,7 @@ export default [
       DET: 88,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38197,
@@ -26479,6 +26628,7 @@ export default [
       DET: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38198,
@@ -26497,6 +26647,7 @@ export default [
       SKS: 88,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38199,
@@ -26515,6 +26666,7 @@ export default [
       DET: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38200,
@@ -26533,6 +26685,7 @@ export default [
       DET: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38201,
@@ -26551,6 +26704,7 @@ export default [
       CRT: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38202,
@@ -26569,6 +26723,7 @@ export default [
       SKS: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38203,
@@ -26587,6 +26742,7 @@ export default [
       CRT: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38204,
@@ -26605,6 +26761,7 @@ export default [
       SPS: 88,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38205,
@@ -26623,6 +26780,7 @@ export default [
       DET: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38206,
@@ -26641,6 +26799,7 @@ export default [
       DET: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38207,
@@ -26659,6 +26818,7 @@ export default [
       DET: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38208,
@@ -26677,6 +26837,7 @@ export default [
       DET: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38209,
@@ -26695,6 +26856,7 @@ export default [
       DET: 126,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
   {
     id: 38210,
@@ -26713,5 +26875,6 @@ export default [
       DET: 88,
     },
     source: '迷宫挑战/特罗亚宫廷',
+    version: '6.2',
   },
 ];

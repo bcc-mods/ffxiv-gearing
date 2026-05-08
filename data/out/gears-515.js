@@ -2234,6 +2234,7 @@ export default [
       DLY: 2640,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 41809,
@@ -2253,6 +2254,7 @@ export default [
       MDMG: 104,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43178,
@@ -2271,6 +2273,7 @@ export default [
       SKS: 85,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43179,
@@ -2289,6 +2292,7 @@ export default [
       CRT: 194,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43180,
@@ -2307,6 +2311,7 @@ export default [
       CRT: 85,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43181,
@@ -2325,6 +2330,7 @@ export default [
       DET: 194,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43182,
@@ -2343,6 +2349,7 @@ export default [
       DET: 122,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43183,
@@ -2361,6 +2368,7 @@ export default [
       SPS: 85,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43184,
@@ -2379,6 +2387,7 @@ export default [
       CRT: 136,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43185,
@@ -2397,6 +2406,7 @@ export default [
       DET: 85,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43186,
@@ -2415,6 +2425,7 @@ export default [
       DET: 194,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 43187,
@@ -2433,6 +2444,7 @@ export default [
       DET: 85,
     },
     source: '职业任务',
+    version: '7.0',
   },
   {
     id: 32418,
@@ -8128,6 +8140,7 @@ export default [
       DLY: 2640,
     },
     source: '迷宫挑战/佐特塔',
+    version: '7.0',
   },
   {
     id: 43643,
@@ -8147,6 +8160,7 @@ export default [
       MDMG: 104,
     },
     source: '迷宫挑战/佐特塔',
+    version: '7.0',
   },
   {
     id: 33482,
@@ -10681,6 +10695,7 @@ export default [
     },
     hq: true,
     source: '生产制作',
+    version: '7.0',
   },
   {
     id: 43644,
@@ -10702,6 +10717,7 @@ export default [
     },
     hq: true,
     source: '生产制作',
+    version: '7.0',
   },
   {
     id: 32294,
@@ -14721,6 +14737,7 @@ export default [
       MDMG: 1,
     },
     source: '职业任务',
+    version: '6.45',
   },
   {
     id: 40346,
@@ -14739,6 +14756,7 @@ export default [
       DET: 126,
     },
     source: '职业任务',
+    version: '6.45',
   },
   {
     id: 40347,
@@ -14757,6 +14775,7 @@ export default [
       DET: 200,
     },
     source: '职业任务',
+    version: '6.45',
   },
   {
     id: 40348,
@@ -14775,6 +14794,7 @@ export default [
       SPS: 126,
     },
     source: '职业任务',
+    version: '6.45',
   },
   {
     id: 40349,
@@ -14793,6 +14813,7 @@ export default [
       SPS: 140,
     },
     source: '职业任务',
+    version: '6.45',
   },
   {
     id: 40350,
@@ -14811,6 +14832,7 @@ export default [
       SPS: 126,
     },
     source: '职业任务',
+    version: '6.45',
   },
   {
     id: 40351,
@@ -14829,6 +14851,7 @@ export default [
       SPS: 99,
     },
     source: '同盟徽章',
+    version: '6.45',
   },
   {
     id: 40352,
@@ -14847,6 +14870,7 @@ export default [
       CRT: 99,
     },
     source: '同盟徽章',
+    version: '6.45',
   },
   {
     id: 40353,
@@ -14865,6 +14889,7 @@ export default [
       CRT: 69,
     },
     source: '同盟徽章',
+    version: '6.45',
   },
   {
     id: 40354,
@@ -14883,6 +14908,7 @@ export default [
       DET: 99,
     },
     source: '同盟徽章',
+    version: '6.45',
   },
   {
     id: 40476,
@@ -14898,6 +14924,7 @@ export default [
       MDMG: 1,
     },
     source: '同盟徽章',
+    version: '6.45',
   },
   {
     id: 41700,
@@ -14913,6 +14940,7 @@ export default [
       MDMG: 1,
     },
     source: '特殊迷宫/阿罗阿罗岛',
+    version: '6.51',
   },
   {
     id: 43624,
@@ -14933,6 +14961,7 @@ export default [
       DLY: 2640,
     },
     source: '迷宫挑战/巴别塔',
+    version: '7.0',
   },
   {
     id: 43630,
@@ -14953,6 +14982,7 @@ export default [
       DLY: 2640,
     },
     source: '点数强化/默示→诗学',
+    version: '7.0',
   },
   {
     id: 43645,
@@ -14972,6 +15002,7 @@ export default [
       MDMG: 105,
     },
     source: '迷宫挑战/巴别塔',
+    version: '7.0',
   },
   {
     id: 43651,
@@ -14991,5 +15022,6 @@ export default [
       MDMG: 105,
     },
     source: '点数强化/默示→诗学',
+    version: '7.0',
   },
 ];

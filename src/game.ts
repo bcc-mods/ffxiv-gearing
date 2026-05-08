@@ -8,6 +8,7 @@ export interface GearBase {
   jobCategory: number,
   stats: Stats,
   obsolete?: true,
+  version?: string,
 }
 export interface Gear extends GearBase {
   rarity: number,

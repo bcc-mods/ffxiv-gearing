@@ -2625,6 +2625,7 @@ export default [
       MDMG: 93,
     },
     source: '零式/阿尔法幻境',
+    version: '6.3',
   },
   {
     id: 39569,
@@ -2645,6 +2646,7 @@ export default [
       DLY: 3200,
     },
     source: '零式/阿尔法幻境',
+    version: '6.3',
   },
   {
     id: 26028,
@@ -14266,6 +14268,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38542,
@@ -14288,6 +14291,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38543,
@@ -14310,6 +14314,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38544,
@@ -14332,6 +14337,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38545,
@@ -14354,6 +14360,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38546,
@@ -14376,6 +14383,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38547,
@@ -14398,6 +14406,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38548,
@@ -14420,6 +14429,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38549,
@@ -14441,6 +14451,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38550,
@@ -14462,6 +14473,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38551,
@@ -14483,6 +14495,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38552,
@@ -14504,6 +14517,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38553,
@@ -14525,6 +14539,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38554,
@@ -14547,6 +14562,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38555,
@@ -14568,6 +14584,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38556,
@@ -14590,6 +14607,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38557,
@@ -14612,6 +14630,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 38558,
@@ -14631,6 +14650,7 @@ export default [
     },
     hq: true,
     source: '生产制作/缇坦妮雅武器',
+    version: '6.2',
   },
   {
     id: 39549,
@@ -14653,6 +14673,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39550,
@@ -14675,6 +14696,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39551,
@@ -14697,6 +14719,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39552,
@@ -14719,6 +14742,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39553,
@@ -14741,6 +14765,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39554,
@@ -14763,6 +14788,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39555,
@@ -14785,6 +14811,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39556,
@@ -14807,6 +14834,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39557,
@@ -14828,6 +14856,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39558,
@@ -14849,6 +14878,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39559,
@@ -14870,6 +14900,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39560,
@@ -14891,6 +14922,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39561,
@@ -14912,6 +14944,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39562,
@@ -14934,6 +14967,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39563,
@@ -14955,6 +14989,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39564,
@@ -14977,6 +15012,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39565,
@@ -14999,6 +15035,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 39566,
@@ -15018,6 +15055,7 @@ export default [
     },
     hq: true,
     source: '生产制作/红宝石神兵武器',
+    version: '6.3',
   },
   {
     id: 41600,
@@ -15040,6 +15078,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41601,
@@ -15062,6 +15101,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41602,
@@ -15084,6 +15124,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41603,
@@ -15106,6 +15147,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41604,
@@ -15128,6 +15170,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41605,
@@ -15150,6 +15193,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41606,
@@ -15172,6 +15216,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41607,
@@ -15194,6 +15239,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41608,
@@ -15215,6 +15261,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41609,
@@ -15236,6 +15283,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41610,
@@ -15257,6 +15305,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41611,
@@ -15278,6 +15327,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41612,
@@ -15299,6 +15349,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41613,
@@ -15321,6 +15372,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41614,
@@ -15342,6 +15394,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41615,
@@ -15364,6 +15417,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41616,
@@ -15386,6 +15440,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 41617,
@@ -15405,6 +15460,7 @@ export default [
     },
     hq: true,
     source: '生产制作/绿宝石神兵武器',
+    version: '6.5',
   },
   {
     id: 44976,
@@ -15427,6 +15483,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44977,
@@ -15449,6 +15506,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44978,
@@ -15471,6 +15529,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44979,
@@ -15493,6 +15552,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44980,
@@ -15515,6 +15575,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44981,
@@ -15537,6 +15598,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44982,
@@ -15559,6 +15621,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44983,
@@ -15581,6 +15644,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44984,
@@ -15602,6 +15666,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44985,
@@ -15623,6 +15688,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44986,
@@ -15644,6 +15710,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44987,
@@ -15665,6 +15732,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44988,
@@ -15686,6 +15754,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44989,
@@ -15708,6 +15777,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44990,
@@ -15729,6 +15799,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44991,
@@ -15751,6 +15822,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44992,
@@ -15773,6 +15845,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 44993,
@@ -15792,6 +15865,7 @@ export default [
     },
     hq: true,
     source: '生产制作/钻石神兵武器',
+    version: '7.1',
   },
   {
     id: 45646,
@@ -15808,6 +15882,7 @@ export default [
       CRL: 356,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45647,
@@ -15824,6 +15899,7 @@ export default [
       CRL: 356,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45648,
@@ -15840,6 +15916,7 @@ export default [
       CRL: 356,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45649,
@@ -15856,6 +15933,7 @@ export default [
       CRL: 356,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45650,
@@ -15872,6 +15950,7 @@ export default [
       CRL: 356,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45651,
@@ -15888,6 +15967,7 @@ export default [
       CRL: 356,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45652,
@@ -15904,6 +15984,7 @@ export default [
       CRL: 356,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45653,
@@ -15920,6 +16001,7 @@ export default [
       CRL: 356,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45654,
@@ -15937,6 +16019,7 @@ export default [
       PCP: 354,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45655,
@@ -15954,6 +16037,7 @@ export default [
       PCP: 354,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 45656,
@@ -15971,6 +16055,7 @@ export default [
       PCP: 354,
     },
     source: '宇宙探索',
+    version: '7.21',
   },
   {
     id: 25322,

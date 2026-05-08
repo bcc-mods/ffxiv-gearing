@@ -39,6 +39,7 @@ export const Gear = mst.types
     get hq() { return self.data.hq; },
     get customizable() { return self.data.customizable; },
     get source() { return self.data.source; },
+    get version() { return self.data.version; },
     get color(): GearColor {
       const { gearColorScheme } = self.store.setting;
       if (gearColorScheme === 'none') return 'white';
