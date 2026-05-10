@@ -6,6 +6,7 @@ import { floor, ceil, Setting, Promotion, GearUnion, GearUnionReference,
   gearDataOrdered, gearDataLoading, loadGearDataOfGearId, loadGearDataOfLevelRange } from '.';
 import type { IGear, IFood, IGearUnion, IMateria } from '.';
 
+declare const __PATCH__: string;
 const clanStorageKey = 'ffxiv-gearing.dt.clan';
 const tiersShownStorageKey = 'ffxiv-gearing.dt.tiers-shown';
 
@@ -30,6 +31,7 @@ export const Store = mst.types
     duplicateToolMateria: mst.types.optional(mst.types.boolean, true),
     gears: mst.types.map(GearUnion),
     equippedGears: mst.types.map(GearUnionReference),
+    gameVersion: mst.types.optional(mst.types.string, __PATCH__),
   })
   .volatile(() => ({
     setting: Setting.create(),
@@ -47,10 +49,14 @@ export const Store = mst.types
         return Array.from(self.gears.keys(), id => Number(id) as G.GearId);
       }
       const unobservableEquippedGears = mobx.untracked(() => self.equippedGears.toJSON());
+      const isAvailableInVersion = (gear: G.GearBase) => {
+        return gear.version === undefined || gear.version <= self.gameVersion;
+      };
       const ret: G.GearId[] = [];
       for (const gear of gearDataOrdered.get()) {
         const { job, minLevel, maxLevel } = self;
         if (
+          isAvailableInVersion(gear) &&
           G.jobCategories[gear.jobCategory][job!] &&
           (gear.slot === -1 ? (self.showAllFoods || 'best' in gear) :  // Foods
             gear.slot === -2 ? (self.showAllPotions || 'best' in gear) :  // Potions
@@ -661,6 +667,9 @@ export const Store = mst.types
           self.gears.put(GearUnion.create({ id: gearId }));
         }
       }
+    },
+    setGameVersion(version: string): void {
+      self.gameVersion = version;
     },
     setMode(mode: Mode): void {
       self.mode = mode;

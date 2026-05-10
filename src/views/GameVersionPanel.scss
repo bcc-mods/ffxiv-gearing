@@ -1,0 +1,32 @@
+@use "./components/mixins" as *;
+
+.game-version_group {
+  font-weight: bold;
+}
+
+.game-version_group-icon {
+  width: 24px;
+}
+
+.game-version_items {
+  width: 288px;
+  margin: 0 4px;
+}
+
+.game-version_item {
+  display: inline-block;
+  width: 48px;
+  line-height: 36px;
+  text-align: center;
+  vertical-align: top;
+  border-radius: 4px;
+  cursor: pointer;
+
+  &.-selected {
+    background-color: var(--color-selected-bg);
+
+    &:before {
+      opacity: 0; // disable hover background
+    }
+  }
+}

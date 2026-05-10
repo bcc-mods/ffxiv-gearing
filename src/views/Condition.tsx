@@ -17,6 +17,7 @@ import { MateriaOverallPanel } from './MateriaOverallPanel';
 import { SharePanel } from './SharePanel';
 import { ImportPanel } from './ImportPanel';
 import { SettingPanel } from './SettingPanel';
+import { GameVersionPanel } from './GameVersionPanel';
 
 declare const __PATCH__: string;
 
@@ -175,7 +176,19 @@ export const Condition = mobxReact.observer(() => {
           />
         )}
         <span className="condition_divider" />
-        <span className="condition_text">数据版本 {__PATCH__}</span>
+        {editing ? (
+          <Dropdown
+            label={({ ref, toggle }) => (
+              <Button ref={ref} className="condition_button" onClick={toggle}>
+                {'数据版本 ' + store.gameVersion}
+              </Button>
+            )}
+            popper={GameVersionPanel}
+            placement="bottom-start"
+          />
+        ) : (
+          <span className="condition_text">数据版本 {__PATCH__}</span>
+        )}
       </span>
       {welcoming && <JobSelector />}
       {welcoming && (
