@@ -5805,6 +5805,7 @@ export default [
       CMS: 5,
     },
     statMain: 'CP',
+    version: '6.1',
   },
   {
     id: 37283,
@@ -5821,6 +5822,7 @@ export default [
       GTH: 3,
     },
     statMain: 'PCP',
+    version: '6.1',
   },
   {
     id: 38261,
@@ -6027,6 +6029,7 @@ export default [
       CRL: 5,
     },
     statMain: 'CP',
+    version: '6.3',
   },
   {
     id: 38930,
@@ -6044,6 +6047,7 @@ export default [
     },
     statMain: 'GTH',
     best: true,
+    version: '6.3',
   },
   {
     id: 39869,
@@ -7054,6 +7058,7 @@ export default [
     },
     statMain: 'CP',
     best: true,
+    version: '7.1',
   },
   {
     id: 44843,
@@ -7071,6 +7076,7 @@ export default [
     },
     statMain: 'PCP',
     best: true,
+    version: '7.1',
   },
   {
     id: 46000,
@@ -7278,6 +7284,7 @@ export default [
     },
     statMain: 'CP',
     best: true,
+    version: '7.3',
   },
   {
     id: 46254,
@@ -7295,6 +7302,7 @@ export default [
     },
     statMain: 'GTH',
     best: true,
+    version: '7.3',
   },
   {
     id: 49239,
