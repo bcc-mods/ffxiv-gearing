@@ -23,6 +23,8 @@ export const Store = mst.types
     maxLevel: mst.types.optional(mst.types.number, 0),
     minLevelIncoming: mst.types.maybe(mst.types.number),
     maxLevelIncoming: mst.types.maybe(mst.types.number),
+    minFoodLevel: mst.types.optional(mst.types.number, 0),
+    maxFoodLevel: mst.types.optional(mst.types.number, 0),
     syncLevel: mst.types.maybe(mst.types.number),
     filterFocus: mst.types.optional(mst.types.string as mst.ISimpleType<FilterFocus>, 'no'),
     showAllMaterias: mst.types.optional(mst.types.boolean, false),
@@ -44,27 +46,47 @@ export const Store = mst.types
   .views(self => ({
     get filteredIds(): G.GearId[] {
       console.debug('filteredIds');
-      if (self.job === undefined) return [];
-      if (self.mode === 'view') {
+      const {
+        mode, job, minLevel, maxLevel, minFoodLevel, maxFoodLevel,
+        showAllFoods, showAllPotions, gameVersion,
+      } = self;
+      if (job === undefined) return [];
+      if (mode === 'view') {
         return Array.from(self.gears.keys(), id => Number(id) as G.GearId);
       }
       const unobservableEquippedGears = mobx.untracked(() => self.equippedGears.toJSON());
-      const isAvailableInVersion = (gear: G.GearBase) => {
-        return gear.version === undefined || gear.version <= self.gameVersion;
+
+      const shouldDisplay = (gear: G.GearBase) => {
+        const isVersionCompatible = gear.version === undefined || gear.version <= gameVersion;
+        const isJobMatched = G.jobCategories[gear.jobCategory][job!];
+        const isObsoleteGearHidden = gear.obsolete && this.setting.hideObsoleteGears;
+
+        if (!isVersionCompatible || !isJobMatched || isObsoleteGearHidden) {
+          return false;
+        }
+
+        const isFood = gear.slot === -1;
+        const isPotion = gear.slot === -2;
+        const isSecondaryTool = gear.slot === 2;
+        const isSoulCrystal = gear.slot === 17;
+
+        if (isFood) {
+          return (gear.level >= minFoodLevel && gear.level <= maxFoodLevel) &&
+            (showAllFoods || 'best' in gear);
+        }
+        if (isPotion) {
+          return showAllPotions || 'best' in gear;
+        }
+        if (isSoulCrystal || (isSecondaryTool && job === 'FSH')) {
+          return true;
+        }
+
+        return gear.level >= minLevel && gear.level <= maxLevel;
       };
+
       const ret: G.GearId[] = [];
       for (const gear of gearDataOrdered.get()) {
-        const { job, minLevel, maxLevel } = self;
-        if (
-          isAvailableInVersion(gear) &&
-          G.jobCategories[gear.jobCategory][job!] &&
-          (gear.slot === -1 ? (self.showAllFoods || 'best' in gear) :  // Foods
-            gear.slot === -2 ? (self.showAllPotions || 'best' in gear) :  // Potions
-              gear.slot === 17 || (gear.slot === 2 && job === 'FSH') ||  // Soul crystal and spearfishing gig
-              (gear.level >= minLevel && gear.level <= maxLevel &&
-                !(gear.obsolete && this.setting.hideObsoleteGears))
-          )
-        ) {
+        if (shouldDisplay(gear)) {
           ret.push(gear.id);
           if (gear.slot === 12) {
             ret.push(-gear.id as G.GearId);
@@ -670,6 +692,8 @@ export const Store = mst.types
     },
     setGameVersion(version: string): void {
       self.gameVersion = version;
+      self.maxFoodLevel = G.getMaxFoodLevelByVersion(version);
+      self.minFoodLevel = Math.min(self.minFoodLevel, self.maxFoodLevel);
     },
     setMode(mode: Mode): void {
       self.mode = mode;
@@ -700,6 +724,12 @@ export const Store = mst.types
     },
     setMaxLevel(level: number): void {
       self.maxLevelIncoming = level;
+    },
+    setMinFoodLevel(level: number): void {
+      self.minFoodLevel = level;
+    },
+    setMaxFoodLevel(level: number): void {
+      self.maxFoodLevel = level;
     },
     submitIncomingLevels(): void {
       if (self.minLevelIncoming !== undefined) {
@@ -806,6 +836,9 @@ export const Store = mst.types
         loadGearDataOfGearId(Math.abs(gearId as G.GearId));
       }
       self.submitIncomingLevels();  // if user refreshs during appending, we should switch to hard loading
+      const food = self.equippedGears.get(-1);
+      self.setMinFoodLevel(food?.level ?? G.getMinFoodLevel());
+      self.setMaxFoodLevel(G.getMaxFoodLevelByVersion(self.gameVersion));
       mobx.autorun(() => loadGearDataOfLevelRange(self.minLevel, self.maxLevel));
       mobx.autorun(() => {
         if (self.minLevelIncoming !== undefined || self.maxLevelIncoming !== undefined) {

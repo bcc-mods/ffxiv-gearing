@@ -137,6 +137,26 @@ export const Condition = mobxReact.observer(() => {
           placement="bottom-start"
         />
       )}
+      {editing && (
+        <>
+          <span className="condition_divider" />
+          <span className="condition_level">
+            食品&nbsp;
+            <span className="condition_level-value">
+              <ConditionLevelInput
+                value={store.minFoodLevel}
+                onChange={value => store.setMinFoodLevel(value)}
+              />
+              <span className="condition_level-separator">-</span>
+              <ConditionLevelInput
+                value={store.maxFoodLevel}
+                onChange={value => store.setMaxFoodLevel(value)}
+              />
+            </span>
+            品级
+          </span>
+        </>
+      )}
       <span className="condition_right">
         {editing && (
           <Dropdown

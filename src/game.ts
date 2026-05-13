@@ -653,3 +653,17 @@ export const syncLevelIsPopular: { [index: number]: boolean } = {
 export const syncLevelOfJobLevels = { 50: 130, 60: 270, 70: 400, 80: 530, 90: 660, 100: 790 };
 
 export const bluMdmgAdditions = require('../data/out/bluMdmgAdditions').default as number[];
+
+export interface FoodLevelRange {
+  version: string;
+  min: number;
+  max: number;
+}
+export const foodLevelRanges = require('../data/out/foodLevels').default as FoodLevelRange[];
+export function getMaxFoodLevelByVersion(version: string): number {
+  return foodLevelRanges.filter(r => r.version <= version)
+    .reduce((max, r) => Math.max(max, r.max), 0);
+}
+export function getMinFoodLevel(): number {
+  return foodLevelRanges[0].min;
+}
