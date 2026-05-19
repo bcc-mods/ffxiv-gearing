@@ -34,7 +34,7 @@ export const Condition = mobxReact.observer(() => {
       {welcoming && (
         <a
           className={classNames('condition_tip', store.promotion.get('legacyLink') && '-highlight')}
-          href="./ew/"
+          href="https://asvel.github.io/ffxiv-gearing/ew/"
           children="此工具已适配至《金曦之遗辉》资料片，如需使用《晓月之终途》版本请点击此处"
           onClick={store.promotion.get('legacyLink') ? () => store.promotion.off('legacyLink') : undefined}
           onMouseLeave={store.promotion.get('legacyLink') ? () => store.promotion.off('legacyLink') : undefined}
