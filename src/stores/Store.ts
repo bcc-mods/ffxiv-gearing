@@ -779,17 +779,28 @@ export const Store = mst.types
       self.mode = 'edit';
       let minLevel = Infinity;
       let maxLevel = -Infinity;
+      let foodLevel = undefined;
+      let latestGameVersion = '';
       for (const slot of self.schema.slots) {
         const gear = self.equippedGears.get(slot.slot.toString());
         if (gear !== undefined && slot.levelWeight !== 0 && gear.id !== 17726) {  // 17726: Spearfishing Gig
           if (gear.level < minLevel) minLevel = gear.level;
           if (gear.level > maxLevel) maxLevel = gear.level;
         }
+        if (gear?.isFood) {
+          foodLevel = gear.level;
+        }
+        if (gear?.version && (!latestGameVersion || gear.version > latestGameVersion)) {
+          latestGameVersion = gear.version;
+        }
       }
+      self.gameVersion = latestGameVersion ?? self.gameVersion;
       self.minLevel = minLevel;
       self.maxLevel = maxLevel;
       self.minLevelIncoming = undefined;
       self.maxLevelIncoming = undefined;
+      self.minFoodLevel = foodLevel ?? G.getMinFoodLevel();
+      self.maxFoodLevel = G.getMaxFoodLevelByVersion(self.gameVersion);
     },
     equip(gear: IGearUnion): void {
       const key = gear.slot.toString();
@@ -836,9 +847,6 @@ export const Store = mst.types
         loadGearDataOfGearId(Math.abs(gearId as G.GearId));
       }
       self.submitIncomingLevels();  // if user refreshs during appending, we should switch to hard loading
-      const food = self.equippedGears.get(-1);
-      self.setMinFoodLevel(food?.level ?? G.getMinFoodLevel());
-      self.setMaxFoodLevel(G.getMaxFoodLevelByVersion(self.gameVersion));
       mobx.autorun(() => loadGearDataOfLevelRange(self.minLevel, self.maxLevel));
       mobx.autorun(() => {
         if (self.minLevelIncoming !== undefined || self.maxLevelIncoming !== undefined) {
