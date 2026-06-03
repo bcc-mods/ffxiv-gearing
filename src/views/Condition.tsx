@@ -74,12 +74,22 @@ export const Condition = mobxReact.observer(() => {
           <span className="condition_level-value">
             <ConditionLevelInput
               value={store.minLevel}
-              onChange={value => store.setMinLevel(value)}
+              onChange={value => {
+                store.setMinLevel(value)
+                if (value > store.maxLevel) {
+                  store.setMaxLevel(value)
+                }
+              }}
             />
             <span className="condition_level-separator">-</span>
             <ConditionLevelInput
               value={store.maxLevel}
-              onChange={value => store.setMaxLevel(value)}
+              onChange={value => {
+                store.setMaxLevel(value)
+                if (value < store.minLevel) {
+                  store.setMinLevel(value)
+                }
+              }}
             />
           </span>
           品级
@@ -145,12 +155,22 @@ export const Condition = mobxReact.observer(() => {
             <span className="condition_level-value">
               <ConditionLevelInput
                 value={store.minFoodLevel}
-                onChange={value => store.setMinFoodLevel(value)}
+                onChange={value => {
+                  store.setMinFoodLevel(value)
+                  if (value > store.maxFoodLevel) {
+                    store.setMaxFoodLevel(value)
+                  }
+                }}
               />
               <span className="condition_level-separator">-</span>
               <ConditionLevelInput
                 value={store.maxFoodLevel}
-                onChange={value => store.setMaxFoodLevel(value)}
+                onChange={value => {
+                  store.setMaxFoodLevel(value)
+                  if (value < store.minFoodLevel) {
+                    store.setMinFoodLevel(value)
+                  }
+                }}
               />
             </span>
             品级
